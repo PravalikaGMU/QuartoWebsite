@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+![](img/image.jpg){fig-align="center" width="117"}
+
+I am **Pravalika Chintapally**, born and brought up in India. I am currently enrolled in the Master of Science in Data Analytics Engineering program at George Mason University in Fairfax, Virginia. My educational background includes a Bachelors degree in Computer Science and engineering, and I entered a professional world as a QA software engineer after finishing my B.Tech in my Home country.
